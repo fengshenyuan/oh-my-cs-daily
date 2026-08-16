@@ -1,5 +1,5 @@
 # Python HTTP2 Ecosystem
-*  The Reason we need to care about the Python HTTP2 Ecosystem can be referred to `The War between HTTP RESTful & RPC`. 
+*  The Reason we need to care about the Python HTTP2 Ecosystem can be referred to `The War between HTTP RESTful & RPC`.
 *  We try to find a solution so that we never need to consider grpc/dubbo/thrift/brpc/... as options in future.
 
 ## Basic Resource
@@ -39,14 +39,3 @@
 - [aio-libs](https://github.com/aio-libs)
 - [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio)
 - [magicstack](https://github.com/MagicStack)
-
-## How to build MS-Arch with the Python HTTP2 Ecosystem
-
-### Server side
-- xxx
-
-### Client side
-- xxx
-
-### Load Balancer
-*  Nginx??

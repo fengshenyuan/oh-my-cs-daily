@@ -20,9 +20,6 @@ The largest and most substantial collection in this repository is [`tech-notes/`
 
 [`problem-solving/`](problem-solving/) collects interview questions, algorithmic exercises, and related problem-solving material.
 
-### Writing & References
-
-[`writing/`](writing/) contains longer-form technical writing. [`references/`](references/) contains curated external material and learning resources.
 
 ### Archive
 
@@ -35,8 +32,6 @@ tech-notes/       Technical knowledge and engineering notes
 algorithms/       Original algorithms and models
 experiments/      Small experiments, scripts, and configurations
 problem-solving/ Interview and algorithmic problem solving
-writing/          Longer-form technical writing
-references/       Curated external resources
 archive/          Historical material
 assets/           Images and diagrams
 ```

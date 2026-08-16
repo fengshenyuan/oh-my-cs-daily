@@ -1,30 +1,48 @@
-# Oh My CS Daily - Oxia Guo
+# Oh My CS Daily
 
-## Oh My Environment
-- [oh my shell](oh_my_shell.md)
+A long-running personal archive of software engineering notes, technical explorations, algorithms, experiments, and practical problem solving.
 
-## Algorithms
-- [World Fortune Algorithm - 一种社区帖子热度排名计算算法](scripts/algorithms/world_fortune_algorithm_sample.py) 
+## Start Here
 
-## Blogs
-- [后端协会半小时从入门到放弃全教程](blogs/后端协会半小时从入门到放弃全教程.md)
+### Technical Notes
 
-## Scripts
-- [C bits 操作函数](scripts/C\/C++/cbits_tools.hpp)
-- [C++ Try-Catch宏定义封装](scripts/C/C++/MacrosTryCatch.hpp)
+The largest and most substantial collection in this repository is [`tech-notes/`](tech-notes/), covering databases, data engineering, distributed systems, cloud infrastructure, networking, programming languages, AI, and engineering leadership.
 
-## Python
-- [Singleton的实现](scripts/Python/singleton.py)
-- [有用的Python代码片段](scripts/Python/python_code_pieces.md)
+### Original Algorithms
 
-## 面试问题
-- [SmartX: 求1到N中，数字x(0到9)出现的次数](scripts/interviews/smartx_case02.py)
-- [SmartX: 有一个m*n整数矩阵，从左到右单调递增，从上到下单调递增，判断一个指定的数是否在此矩阵中？](scripts/interviews/smartx_case01.py)
+[`algorithms/`](algorithms/) contains original algorithmic ideas and implementations, including the [World Fortune Algorithm](algorithms/world-fortune-algorithm/), a model for balancing content freshness with accumulated popularity in community ranking systems.
 
-## N & T
-- [A Little Collection About Blogs & Articles](N&T/a-little-collection-about-blogs-and-articles.md)
-- [A little Collection of Practice Problems](N&T/a-little-collection-of-practice-problems.md)
-- [A little Experience about Python](N&T/a-little-experience-about-python.md)
-- [A little Record of Everything](N&T/a-little-record-of-everything.md)
-- [A little Summary about Daily Work](N&T/a-little-summary-about-daily-work.md)
-- [A little Thinking about Database](N&T/a-little-thinking-about-database.md)
+### Experiments
+
+[`experiments/`](experiments/) contains small programs, language experiments, infrastructure configuration, and other practical explorations.
+
+### Problem Solving
+
+[`problem-solving/`](problem-solving/) collects interview questions, algorithmic exercises, and related problem-solving material.
+
+### Writing & References
+
+[`writing/`](writing/) contains longer-form technical writing. [`references/`](references/) contains curated external material and learning resources.
+
+### Archive
+
+[`archive/`](archive/) preserves historical material that does not need to participate in the primary taxonomy.
+
+## Repository Structure
+
+```text
+tech-notes/       Technical knowledge and engineering notes
+algorithms/       Original algorithms and models
+experiments/      Small experiments, scripts, and configurations
+problem-solving/ Interview and algorithmic problem solving
+writing/          Longer-form technical writing
+references/       Curated external resources
+archive/          Historical material
+assets/           Images and diagrams
+```
+
+The repository began as a personal CS learning notebook and has gradually evolved into a broader engineering archive.
+
+## License
+
+[MIT](LICENSE)
